@@ -1,2 +1,4 @@
 # Manisha-Journey
-This repo is made for MLH hackathon Hack for Hackers Project.
+This repo is made for MLH Hackathon Hack for Hackers Project.
+# Visit -link
+https://manishak798.github.io/Manisha-Journey/
