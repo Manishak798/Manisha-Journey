@@ -41,8 +41,9 @@ Thank you to the open-source community and all contributors for making this proj
 
 Happy coding! 🚀
 
-# Visit -link
+# Visit - Link 🔗
 https://manishak798.github.io/Manisha-Journey/
 
-# project-overview
-![image](https://github.com/Manishak798/Manisha-Journey/assets/90680330/7e5a2df0-a6d8-484d-850b-6b6c0858ef4b)
+# Project - Overview 📸
+![image](https://github.com/Manishak798/Manisha-Journey/assets/90680330/ac3a31c7-dabd-46fe-9dd6-b70a39c4602d)
+
